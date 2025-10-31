@@ -35,13 +35,7 @@ This repository presents a reproducible regression analysis and emissions foreca
 
 This project is licensed under the MIT License. See `LICENSE` for details.
 
-## 📊 Visualizations
 
-### Emissions vs Compute
-![Emissions vs Compute](figures/emission_vs_compute.png)
-
-### Forecasted Emissions (2026–2031)
-![Forecasted Emissions](figures/forecasted_emissions_2026_2031.png)
 
 ## ✍️ Author
 
